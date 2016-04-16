@@ -2,6 +2,7 @@ name: handball
 favicon: null
 layout_spectrum: 0.13844562997110188
 typography_spectrum: 0.3690159348770976
+title: 'Blogg om håndball. Spillet,trening,nyheter og utvikling'
 cta:
   domain: null
   bucket: null
