@@ -4,14 +4,14 @@
         <description><![CDATA[Blogg om håndball. Spillet,trening,nyheter og utvikling]]></description>
         <link>https://thegrid.ai/handball/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 17:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2016 17:35:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/handball/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Håndball </p>]]></description>
             <link>https://thegrid.ai/handball/handball/index.html</link>
             <guid isPermaLink="false">5c84d53b-3bbb-42f2-bd4f-38ec05dd7d81</guid>
-            <pubDate>Sat, 16 Apr 2016 17:06:24 GMT</pubDate>
+            <pubDate>Sat, 16 Apr 2016 17:35:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
