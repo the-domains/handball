@@ -4,7 +4,7 @@
         <description><![CDATA[Blogg om håndball. Spillet,trening,nyheter og utvikling]]></description>
         <link>https://thegrid.ai/handball/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 20:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2016 20:24:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/handball/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/handball/handball/index.html</link>
             <guid isPermaLink="false">5c84d53b-3bbb-42f2-bd4f-38ec05dd7d81</guid>
             <pubDate>Sat, 16 Apr 2016 20:17:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Håndball]]></title>
+            <description><![CDATA[<article><h1>Håndball</h1><p>Bilde tatt i Askimhallen</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/baba1d54-a2b3-4da2-8f7e-2c6e9cee5de7.jpg"></article>]]></description>
+            <link>https://thegrid.ai/handball/handball/index.html</link>
+            <guid isPermaLink="false">ed51387a-9f60-4ac2-8d89-dbe6b38485cd</guid>
+            <pubDate>Sat, 16 Apr 2016 20:24:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
