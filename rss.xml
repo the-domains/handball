@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[handball]]></title>
-        <description><![CDATA[handball]]></description>
+        <title><![CDATA[Blogg om håndball. Spillet,trening,nyheter og utvikling]]></title>
+        <description><![CDATA[Blogg om håndball. Spillet,trening,nyheter og utvikling]]></description>
         <link>https://thegrid.ai/handball/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 17:06:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2016 17:15:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/handball/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/handball/handball/index.html</link>
             <guid isPermaLink="false">5c84d53b-3bbb-42f2-bd4f-38ec05dd7d81</guid>
             <pubDate>Sat, 16 Apr 2016 17:06:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lugg]]></title>
-            <description><![CDATA[<article><h1>Lugg</h1><p>Frisørsalong Askim</p></article>]]></description>
-            <link>https://thegrid.ai/handball/lugg/index.html</link>
-            <guid isPermaLink="false">e75a6be7-e87b-4383-b8d5-80c36709cf38</guid>
-            <pubDate>Sat, 16 Apr 2016 17:02:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
