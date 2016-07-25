@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[HÅNDBALL-BLOGG]]></title>
         <description><![CDATA[HÅNDBALL-BLOGG]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/handball/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 20:58:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Jul 2016 22:01:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/handball/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Treningstider]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/72627b9c-02bb-476d-8e85-61711c60b28e.jpg">]]></description>
+            <link>https://thegrid.ai/handball/treningstider/index.html</link>
+            <guid isPermaLink="false">14333941-23eb-4358-91eb-7699e2a7d3bb</guid>
+            <pubDate>Mon, 25 Jul 2016 22:01:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ee61e5f-b95f-4e00-a0fc-e32534f22318.jpg">]]></description>
-            <link>undefined05122f1e-dc11-4071-8bd5-d08f6eed7399/index.html</link>
+            <link>https://thegrid.ai/handball/05122f1e-dc11-4071-8bd5-d08f6eed7399/index.html</link>
             <guid isPermaLink="false">05122f1e-dc11-4071-8bd5-d08f6eed7399</guid>
             <pubDate>Sat, 16 Apr 2016 20:58:07 GMT</pubDate>
         </item>
